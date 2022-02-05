@@ -21,40 +21,385 @@ The course is taught by a combination of weekly lectures and discussion hours le
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and Course Overview | &nbsp; |
-| 2 | The Nature and Scope of the Historical Sciences | &nbsp; |
-| 3 | Natural History and Natural Theology | Assignment 1 handed out |
-| 4 | The Birth of Historical Geology | &nbsp; |
-| 5 | Catastrophism and Uniformitarianism |  {{< br >}}{{< br >}} Assignment 1 due {{< br >}}{{< br >}} Assignment 2 handed out {{< br >}}{{< br >}}  |
-| 6 | "Victorian Sensation" – Chambers' Vestiges | &nbsp; |
-| 7 | Voyages of Exploration, Part I: Darwin | Assignment 2 due |
-| 8 | Voyages of Exploration, Part II: Wallace and Bates | Assignment 3 handed out |
-| 9 | The Path to _The Origin of Species_ | &nbsp; |
-| 10 | "Mr Darwin's Hypotheses" | &nbsp; |
-| 11 | Guest Lecture: Andrew Berry | &nbsp; |
-| 12 | The Reception of Darwinism | &nbsp; |
-| 13 | The "Gospel of Evolution" in the Late-19th Century | Assignment 3 due |
-| 14 | Evolution and Eugenics | Assignment 4 handed out |
-| 15 | The "Eclipse of Darwinism" in Biology Around 1900 | &nbsp; |
-| 16 | The "Eclipse of Darwinism" in the Social Sciences After 1900 | &nbsp; |
-| 17 | Evolution and the Rise of Christian Fundamentalism | &nbsp; |
-| 18 | Movie: _Inherit the Wind_ | &nbsp; |
-| 19 | Darwinism, Mendelism and the Birth of the "Modern Synthesis" | &nbsp; |
-| 20 | Changing Understand of Human Origins | &nbsp; |
-| 21 | Darwinism and Behavior: From Ethology to Sociobiology | &nbsp; |
-| 22 | The Creation Controversies: From "Scientific Creationism" to "Intelligent Design" | Assignment 5 handed out |
-| 23 | Guest Lecture | &nbsp; |
-| 24 | Reclaiming Evolution for the Social Sciences: the New Evolutionary Psychology | Assignment 4 due |
-| 25 | Evolutionary Humanism, from Julian Huxley to E.O. Wilson | &nbsp; |
-| 26 | Stocktaking: What Makes Evolutionary Biology Special? | Assignment 5 due 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Course Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Nature and Scope of the Historical Sciences
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Natural History and Natural Theology
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Birth of Historical Geology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Catastrophism and Uniformitarianism
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 1 due
+
+Assignment 2 handed out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+"Victorian Sensation" – Chambers' Vestiges
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Voyages of Exploration, Part I: Darwin
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Voyages of Exploration, Part II: Wallace and Bates
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Path to _The Origin of Species_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+"Mr Darwin's Hypotheses"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture: Andrew Berry
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The Reception of Darwinism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+The "Gospel of Evolution" in the Late-19th Century
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution and Eugenics
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+The "Eclipse of Darwinism" in Biology Around 1900
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+The "Eclipse of Darwinism" in the Social Sciences After 1900
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution and the Rise of Christian Fundamentalism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Movie: _Inherit the Wind_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Darwinism, Mendelism and the Birth of the "Modern Synthesis"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Changing Understand of Human Origins
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Darwinism and Behavior: From Ethology to Sociobiology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+The Creation Controversies: From "Scientific Creationism" to "Intelligent Design"
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Reclaiming Evolution for the Social Sciences: the New Evolutionary Psychology
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Evolutionary Humanism, from Julian Huxley to E.O. Wilson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Stocktaking: What Makes Evolutionary Biology Special?
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and participation | 20% |
-| Written papers (4) | 50% (total) |
-| Final "debate" paper + presentation | 30%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written papers (4)
+{{< tdclose >}}
+{{< tdopen >}}
+50% (total)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final "debate" paper + presentation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
