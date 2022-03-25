@@ -176,7 +176,7 @@ The Path to _The Origin of Species_
 
 Famously, Darwin waited almost 20 years before finally publishing his most famous discovery—the law of evolution by natural selection; and even then, he did so only under intense pressure to establish his own intellectual priority over Wallace. Why did he wait so long, and what was he doing in the long interlude between discovery and publication?
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 9 (PDF - 4.0MB)]({{< baseurl >}}/resources/mitsts_009s12_lec9)
+[Lecture 9 (PDF - 4.0MB)]({{< baseurl >}}/resources/mitsts_009s12_lec9)
 
 
 {{< tdclose >}}
@@ -194,7 +194,7 @@ Famously, Darwin waited almost 20 years before finally publishing his most famou
 
 Darwin's Origin of Species is one of the most influential books ever written. It begins quite unassumingly, with a discussion about domesticated varieties of pigeons; but in his autobiography, Darwin described his book as "one long argument". What was the argument, and why was it so powerful?
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 10 (PDF)]({{< baseurl >}}/resources/mitsts_009s12_lec10)
+[Lecture 10 (PDF)]({{< baseurl >}}/resources/mitsts_009s12_lec10)
 
 
 {{< tdclose >}}
@@ -314,7 +314,7 @@ The idea of evolution became fairly widely accepted in late–19th century Ameri
 The Revival of Darwinism After 1900
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 18 (PDF - 1.3MB)]({{< baseurl >}}/resources/mitsts_009s12_lec18)
+[Lecture 18 (PDF - 1.3MB)]({{< baseurl >}}/resources/mitsts_009s12_lec18)
 {{< tdclose >}}
 
 {{< trclose >}}
